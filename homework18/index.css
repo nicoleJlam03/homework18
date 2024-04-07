@@ -1,0 +1,14 @@
+.navBar {
+    display: inline-block;
+    font-size: 40px;
+    padding: 10px;
+}
+.heroIMG {
+    height: 300x;
+    width: 350px;
+}
+.footer {
+    display: inline-block;
+    font-size: 30px;
+    padding: 10px;
+}

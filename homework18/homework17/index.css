@@ -1,0 +1,68 @@
+.navBar {
+    display: inline-block;
+    font-size: 40px;
+    padding: 10px;
+}
+.heroIMG {
+    height: 300x;
+    width: 350px;
+}
+.footer {
+    display: inline-block;
+    font-size: 30px;
+    padding: 10px;
+}
+.flexContainer {
+    display: flex;
+}
+.skillsHeader {
+    text-align: center;
+    margin: 0;
+}
+.skillone {
+    width: 33%;
+}
+.skilltwo {
+    width: 33%;
+}
+.skillthree {
+    width: 33%;
+}
+.skill1 {
+    height: 400px;
+    padding: 10%;
+}
+.skill2 {
+    height: 400px;
+    padding: 10%;
+}
+.skill3 {
+    height: 400px;
+    padding: 10%;
+}
+.userResearch {
+    display: inline-block;
+}
+.workHeader {
+    text-align: center;
+}
+.work1 {
+    height: 400px;
+}
+.pets {
+    float: right;
+}
+.work2 {
+    height: 400px;
+    width: 700px;
+}
+.dmv {
+    float: right;
+}
+.work3 {
+    height: 600px;
+    float: left;
+}
+.IHH {
+    float :right;
+}
